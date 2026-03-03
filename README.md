@@ -1,5 +1,5 @@
 # WIC-WriterIDConfusion-MachineUnlearning
-> Official Implementation for Pattern Recognition 2026 paper "Preserving Privacy Without Compromising Accuracy: Machine Unlearning for Handwritten Text Recognition"
+> Official Implementation for Pattern Recognition 2025 paper "Preserving Privacy Without Compromising Accuracy: Machine Unlearning for Handwritten Text Recognition"
 
 [![Paper](https://img.shields.io/badge/Paper-PR2026-red)](https://www.sciencedirect.com/science/article/pii/S0031320325010726)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
